@@ -10,7 +10,7 @@
 
 
 ### :books: Libraries Used
-* Numpys
+* Numpy
 * Pandas
 * Tensorflow
 * Sklearn
